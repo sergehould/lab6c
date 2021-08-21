@@ -10,7 +10,7 @@
  *                  timers, OC). Students must first define the tasks and functions
  *					required to fulfil the requirement. Then they have to draw a 
  *					dataflow diagram of the links between task, IOs and functions.
- *					Also, this diagram  will help figuring out the split of the work 
+ *					Also, this diagram  will help figuring out the split of the work   
  *					and to specify the common global variables and the grouping of the
  *					tasks and functions into files. Students must use the 
   *					same naming scheme. 
